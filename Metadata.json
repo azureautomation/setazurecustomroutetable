@@ -1,0 +1,20 @@
+{
+    "Author": "wasserja",
+    "ContentSize": 11735,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/setazurecustomroutetable/master/Set-AzureCustomRouteTable.ps1",
+    "DownloadCount": 629,
+    "Id": "Set-AzureCustomRouteTable-e8488a43",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 412,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-2-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Building Azure user-defined route tables, or custom route tables, requires a number of steps in PowerShell to create and then apply.\u00a0Set-AzureCustomRouteTable assists in creating and modifying Azure route tables. The function will create a new route table if it doesn't exist, or",
+    "Title": "Set-AzureCustomRouteTable",
+    "UpdatedDate": "2016-2-17T00:00:00",
+    "Url": "https://github.com/azureautomation/setazurecustomroutetable",
+    "UserTags": ""
+}
